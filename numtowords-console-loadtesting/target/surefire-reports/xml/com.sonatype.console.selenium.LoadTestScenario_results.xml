@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium Load Test"
+           tests="9"
+           failures="0"
+           errors="0"
+           skipped="1"
+           time="11.972">
+  <properties />
+  
+            <testcase name="testcase0" time="0.0" classname="com.sonatype.console.selenium.LoadTestScenario">
+          <skipped />
+    </testcase>
+  
+            <testcase name="testcase6" time="0.297" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase8" time="2.611" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase1" time="3.277" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase2" time="4.298" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase5" time="0.286" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase7" time="0.537" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase4" time="0.341" classname="com.sonatype.console.selenium.LoadTestScenario" />
+                <testcase name="testcase3" time="0.324" classname="com.sonatype.console.selenium.LoadTestScenario" />
+      
+</testsuite>
